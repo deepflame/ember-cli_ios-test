@@ -13,9 +13,11 @@ You can also [test it yourself](http://bit.ly/1wE1XBW)
 __working__
 
 - Chrome 38 OSX Yosemite
+- Firefox 32 OSX Yosemite
 
 __not working__
 
+- iPad 2 iOS 8.1
 - iPhone 5 iOS 7.1 (Simulator)
 - iPhone 5s iOS 8.1 (Simulator)
 
