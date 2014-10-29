@@ -1,3 +1,18 @@
 html, body {
-  margin: 20px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+a {
+  font-size:3rm;
+  border:solid 1px black;
+  padding:0.5em;
+  background-color: yellow;
+}
+
+a:visited {
+  background-color: green;
+}
+a:active {
+  background-color: blue;
 }
