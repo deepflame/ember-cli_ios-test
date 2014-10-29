@@ -21,6 +21,11 @@ __not working__
 - iPhone 5 iOS 7.1 (Simulator)
 - iPhone 5s iOS 8.1 (Simulator)
 
+## Solution
+
+Already have the solution: install FastClick as described here:
+http://stackoverflow.com/questions/25889152/how-to-install-fastclick-with-ember-cli
+
 ## License
 
 MIT
