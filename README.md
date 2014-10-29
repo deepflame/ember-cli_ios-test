@@ -6,6 +6,8 @@ This is just a test repo for an issue I found with ember-cli and iOS.
 
 Build and run the app and open it. Both buttons will open a popup on a Desktop browser, on iOS the "Ember" button will not work.
 
+You can also [test it yourself](http://bit.ly/1wE1XBW)
+
 ### Tested with:
 
 __working__
